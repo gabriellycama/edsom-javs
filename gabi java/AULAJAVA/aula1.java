@@ -1,4 +1,4 @@
-//package AULAJAVA;
+package AULAJAVA;
 
 public class aula1{
 
